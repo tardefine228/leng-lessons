@@ -1,0 +1,23 @@
+{
+  "id": "food",
+  "words": [
+    {
+      "word": "apple",
+      "translation": "яблоко",
+      "transcription": "ˈæpl",
+      "partOfSpeech": "NOUN",
+      "level": "A1",
+      "theme": "Еда",
+      "exampleSentence": "I eat an apple every day."
+    },
+    {
+      "word": "bread",
+      "translation": "хлеб",
+      "transcription": "bred",
+      "partOfSpeech": "NOUN",
+      "level": "A1",
+      "theme": "Еда",
+      "exampleSentence": "She bought fresh bread."
+    }
+  ]
+} 
