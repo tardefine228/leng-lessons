@@ -1,0 +1,11 @@
+[
+  {
+    "id": "food",
+    "title": "Еда",
+    "description": "Базовые слова о еде и напитках",
+    "wordsCount": 16,
+    "level": "A1",
+    "file": "food.json",
+    "version": 1
+  }
+]
