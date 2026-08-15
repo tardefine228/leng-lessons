@@ -1,11 +1,11 @@
 [
   {
-    "id": "food",
-    "title": "Еда",
-    "description": "Базовые слова о еде и напитках",
-    "wordsCount": 16,
-    "level": "A1",
-    "file": "food.json",
+    "id": "everyday",
+    "title": "Повседневный английский",
+    "description": "50 самых нужных слов: дом, семья, еда, поездки, эмоции",
+    "wordsCount": 50,
+    "level": "A1-B2",
+    "file": "everyday.json",
     "version": 1
   }
 ]
