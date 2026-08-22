@@ -2,25 +2,22 @@
   "id": "food",
   "title": "Еда",
   "description": "Базовые слова о еде и напитках",
-  "level": "A1",
   "words": [
-    {
-      "word": "apple",
-      "translation": "яблоко",
-      "transcription": "ˈæpl",
-      "partOfSpeech": "NOUN",
-      "level": "A1",
-      "theme": "Еда",
-      "exampleSentence": "I eat an apple every day."
-    },
-    {
-      "word": "bread",
-      "translation": "хлеб",
-      "transcription": "bred",
-      "partOfSpeech": "NOUN",
-      "level": "A1",
-      "theme": "Еда",
-      "exampleSentence": "She bought fresh bread."
-    }
+    {"word": "Apple", "translation": "Яблоко", "transcription": "ˈæpl", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "I eat an apple every day.", "exampleTranslation": "Я ем яблоко каждый день."},
+    {"word": "Bread", "translation": "Хлеб", "transcription": "bred", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "She bought fresh bread.", "exampleTranslation": "Она купила свежий хлеб."},
+    {"word": "Water", "translation": "Вода", "transcription": "ˈwɔːtə", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "Drink more water.", "exampleTranslation": "Пей больше воды."},
+    {"word": "Cheese", "translation": "Сыр", "transcription": "tʃiːz", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "Cheese is made from milk.", "exampleTranslation": "Сыр делают из молока."},
+    {"word": "To eat", "translation": "Есть", "transcription": "iːt", "partOfSpeech": "VERB", "level": "A1", "theme": "Food", "exampleSentence": "We eat dinner at seven.", "exampleTranslation": "Мы ужинаем в семь."},
+    {"word": "To drink", "translation": "Пить", "transcription": "drɪŋk", "partOfSpeech": "VERB", "level": "A1", "theme": "Food", "exampleSentence": "He drinks coffee every morning.", "exampleTranslation": "Он пьёт кофе каждое утро."},
+    {"word": "Sweet", "translation": "Сладкий", "transcription": "swiːt", "partOfSpeech": "ADJ", "level": "A1", "theme": "Food", "exampleSentence": "The cake is very sweet.", "exampleTranslation": "Торт очень сладкий."},
+    {"word": "Restaurant", "translation": "Ресторан", "transcription": "ˈrestərɒn", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "The restaurant was full of people.", "exampleTranslation": "Ресторан был полон людей."},
+    {"word": "Breakfast", "translation": "Завтрак", "transcription": "ˈbrekfəst", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "Breakfast is my favourite meal.", "exampleTranslation": "Завтрак — моя любимая еда."},
+    {"word": "Lunch", "translation": "Обед", "transcription": "lʌntʃ", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "Let's have lunch together.", "exampleTranslation": "Давай пообедаем вместе."},
+    {"word": "Dinner", "translation": "Ужин", "transcription": "ˈdɪnə", "partOfSpeech": "NOUN", "level": "A1", "theme": "Food", "exampleSentence": "Dinner was delicious.", "exampleTranslation": "Ужин был вкусным."},
+    {"word": "To cook", "translation": "Готовить", "transcription": "kʊk", "partOfSpeech": "VERB", "level": "A1", "theme": "Food", "exampleSentence": "She cooks very well.", "exampleTranslation": "Она очень хорошо готовит."},
+    {"word": "Delicious", "translation": "Вкусный", "transcription": "dɪˈlɪʃəs", "partOfSpeech": "ADJ", "level": "A2", "theme": "Food", "exampleSentence": "This soup is delicious.", "exampleTranslation": "Этот суп очень вкусный."},
+    {"word": "Recipe", "translation": "Рецепт", "transcription": "ˈresəpi", "partOfSpeech": "NOUN", "level": "A2", "theme": "Food", "exampleSentence": "Find a good recipe online.", "exampleTranslation": "Найди хороший рецепт в интернете."},
+    {"word": "To bake", "translation": "Выпекать", "transcription": "beɪk", "partOfSpeech": "VERB", "level": "B1", "theme": "Food", "exampleSentence": "He bakes a pie on Sundays.", "exampleTranslation": "Он печёт пирог по воскресеньям."},
+    {"word": "Ingredient", "translation": "Ингредиент", "transcription": "ɪnˈɡriːdiənt", "partOfSpeech": "NOUN", "level": "B1", "theme": "Food", "exampleSentence": "Mix all the ingredients.", "exampleTranslation": "Смешай все ингредиенты."}
   ]
 }
